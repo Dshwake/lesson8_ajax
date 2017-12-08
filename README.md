@@ -13,8 +13,7 @@ LIS 2360:  Web Application Development
 (We learned how to make our own movie searching application.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://dshwake.github.io/lesson8_ajax/)
 
 ### Lessons Learned in the Assignment:
 1. (How to use hrefs.)
